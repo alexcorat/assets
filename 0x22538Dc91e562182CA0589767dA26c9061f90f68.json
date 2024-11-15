@@ -1,0 +1,7 @@
+{
+  "name": "Binance-Peg BUSD",
+  "symbol": "BUSD",
+  "decimals": 18,
+  "contractAddress": "0x22538Dc91e562182CA0589767dA26c9061f90f68",
+  "logoURI": "https://ibb.co/XDJ6qN2"
+}
